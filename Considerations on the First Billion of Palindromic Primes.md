@@ -1,6 +1,6 @@
-#Considerations on the First Billion of Palindromic Primes (PP)
+# Considerations on the First Billion of Palindromic Primes (PP)
 
-###How many PPs exist in the First Billion of numbers?
+### How many PPs exist in the First Billion of numbers?
 The answer is: 5,953! From a statistic point of view it is the 0.000006% of the total amount of numbers contained in the first billion, and the 0.000117% of the amount of prime numbers contained in the first billion (which is 50,847,534).
 
 I still don’t know if I should consider the one-digit primes as part of the experiment, even though their contribute is so small compared to the whole amount of numbers and occurrences that I’m probably gonna keep all five of them in the list.
